@@ -13,3 +13,4 @@ class Product:
         if quantity > self.stock:
             raise ValueError(f"Insufficient stock for {self.name}. Available: {self.stock}")
         self.stock -= quantity
+
