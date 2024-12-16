@@ -1,0 +1,25 @@
+*add_product*
+En tant que "client de la plateforme"
+Je veux "pouvoir ajouter à mon panier un produit, dans la limite des stocks disponibles"
+afin "de l'acheter"
+
+
+
+*remove_product*
+En tant que "client de la plateforme"
+Je veux "pouvoir supprimer de mon panier un produit, si et seulement si il y apparaît déjà"
+afin "de ne pas l'acheter"
+
+
+
+*calculate_total*
+En tant que "client de la plateforme"
+Je veux "pouvoir afficher la totalité des articles présents dans mon panier"
+afin "de vérifier si le prix de ma commande rentre dans mon budget"
+
+
+
+*display_cart*
+En tant que "client de la plateforme"
+Je veux "pouvoir afficher la totalité des articles présents dans mon panier"
+afin "de vérifier que les produits de mon panier sont les bons"
